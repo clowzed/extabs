@@ -15,7 +15,7 @@ extabs = "1.0.0"
 fn main() {
     let s = String::from("Hello\tWorld!");
     let expanded = s.expandtabs(4);
-    println!(expanded);
+    println!("{}", expanded);
 }
 ```
 
