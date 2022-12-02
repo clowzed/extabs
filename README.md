@@ -7,7 +7,7 @@ Implements expandtabs for String
 # Installation
 Add this line in your Cargo.toml file
 ```toml
-extabs = "1.0.1"
+extabs = "1.0.2"
 ```
 
 # Usage
