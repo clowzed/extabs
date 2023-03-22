@@ -2,7 +2,7 @@
 Implements expandtabs for String
 
 ![Crates.io](https://img.shields.io/crates/v/extabs?color=gree)
-![Crates.io (recent)](https://img.shields.io/crates/dr/extabs?color=gree&label=downloads)
+![Crates.io](https://img.shields.io/crates/d/extabs)
 
 # Installation
 Add this line in your Cargo.toml file
